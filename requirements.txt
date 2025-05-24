@@ -1,0 +1,6 @@
+transformers
+datasets
+peft
+evaluate
+huggingface_hub
+scikit-learn
