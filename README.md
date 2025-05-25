@@ -2,13 +2,15 @@
 
 This repository contains a BERT-based NLP pipeline for detecting spam messages in SMS communications, particularly focusing on OTP and authentication flows. Built for applications in fraud prevention, message filtering, and telecom infrastructure.
 
+![SMS OTP Classifier](./assets/sms-otp-classifier.png)
+
 ## 🤗 Pre-trained Model
 
 The trained model is available on Hugging Face Hub: [alusci/distilbert-smsafe](https://huggingface.co/alusci/distilbert-smsafe)
 
 ## 📋 Requirements
 
-- Python 3.8+
+- Python 3.10+
 - PyTorch
 - Transformers
 - Datasets
