@@ -34,8 +34,7 @@ conda activate smsafe-env
 
 3. **Install dependencies:**
 ```bash
-conda install pytorch transformers datasets scikit-learn numpy -c pytorch -c huggingface -c conda-forge
-pip install peft
+pip install -r requirements.txt
 ```
 
 ## 🏃‍♂️ Quick Start

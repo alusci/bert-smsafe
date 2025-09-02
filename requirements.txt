@@ -1,6 +1,10 @@
 transformers
+torch
 datasets
 peft
 evaluate
 huggingface_hub
 scikit-learn
+matplotlib
+seaborn
+gradio
